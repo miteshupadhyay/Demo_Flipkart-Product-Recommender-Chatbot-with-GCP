@@ -1,0 +1,8 @@
+Defaulting to user installation because normal site-packages is not writeable
+Obtaining file:///D:/Personal/Final_GenAI/Flipkart%20Product%20Recommender%20Chatbot%20with%20GCP/Demo_Flipkart-Product-Recommender-Chatbot-with-GCP
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Checking if build backend supports build_editable: started
+  Checking if build backend supports build_editable: finished with status 'done'
+  Getting requirements to build editable: started
+  Getting requirements to build editable: finished with status 'error'
